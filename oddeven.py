@@ -21,3 +21,4 @@ print(is_odd(888))
 
 def oddeven(number):
     return "even" if num % 2 == 0 else "odd" 
+# test
